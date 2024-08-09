@@ -1,1 +1,1 @@
-Hust a test
+Just a test
